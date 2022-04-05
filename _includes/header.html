@@ -7,15 +7,16 @@
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
-            <li><a href="index.html">Inicio</a></li>
-            {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-            {% endif %}
-            {% endfor %}
-           <!-- <li><a href="Ubicacion.html">Ubicación</a></li> -->
-            <!-- <li><a href="Contacto.html">Contacto</a></li> -->
-            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
+          <!-- {% for my_page in site.pages %} {% if page.layout== "default" %} -->
+          <!-- <li><a href={{ page.url | absolute_url }}">{{ page.title }}</a></li> -->
+          <!-- {% endif %} {%endfor %} {% for pge in site. pages %} {% if page.layout == "page" %} -->
+          <!-- <li><a herf="{{ page.url | absolute_url }}"{{ page.title }}</a><li> -->
+          <!-- {% endif %} {% endfor %} -->
+               <li><a href="Opciones.html">Opciones</a></li>
+            <li><a href="Opciones2.html">Opciones2</a></li>
+          <!-- <li><a href="Ubicacion.html">Ubicación</a></li> -->
+          <!-- <li><a href="Contacto.html">Contacto</a></li> -->
+          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
                    class="icon fa-feed"> RSS Feed</a></li>
           </ul>
         </div>
