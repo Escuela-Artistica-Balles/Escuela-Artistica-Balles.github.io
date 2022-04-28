@@ -5,11 +5,11 @@ title: Contacto
 			<section>
 				<h4></h4>
 				<p>Dirección</p>
-				
-				<p></p>
+				![QR](https://user-images.githubusercontent.com/99769832/165849093-a7ccca45-14b9-4cce-b261-f309b1f3777e.png)
+
 				
 				<p>Número telefonico</p>
-				
+
 				<p>
 				<p>
 				
