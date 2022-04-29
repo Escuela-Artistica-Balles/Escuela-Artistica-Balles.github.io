@@ -21,30 +21,34 @@ La formación se complementa con el estudio de otras disciplinas como Danzas de 
 
 ![image](https://user-images.githubusercontent.com/99769832/165887275-cdc61fec-9058-4380-ab36-3a3602833657.png)
 
-<!-- Two -->
-					<section id="two" class="wrapper alt style2">
-						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Licenciatura en Danza Clásica<br />
-								</h2>
-								<p>Esta licenciatura se caracteriza por integrar la herencia de su profundo legado artístico, con una visión actual y dinámica del ballet, a través de la técnica “Vagánova”, entre otras.</p>
-							<li><a href="https://escuela-artistica-balles.github.io/Ofertas.html" class="button special">Detalle</a></li>
-							
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Licenciatura en Danza Contemporánea<br />
-								</h2>
-								<p>El plan de estudios ofrece, además de las asignaturas enfocadas a la comprensión del cuerpo y de los lenguajes de movimiento, la integración de saberes de otras disciplinas.</p>
-							<li><a href="lic2.html" class="button special">Detalle</a></li>
-							
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Licenciatura en Danza Popular Mexicana<br />
-								</h2>
-								<p>Tiene como propósito proporcionar las herramientas para la investigación, metodologías teórico-prácticas y conocimientos sobre la diversidad de lenguajes y visiones del mundo.</p>
-							<li><a href="lic3.html" class="button special">Detalle</a></li>
-							</div>
-						</section>
+<h2>Noticias</h2>
+								<p><br /></p>
+							</header>
+							<ul class="features">
+								</li>
+							        <li class="icon fa-headphones">
+									<h3>27 de abril
+									Boletín de prensa</h3>
+									<p>La Secretaría de Cultura y la Escuela Artistica Balles incluyen propuestas de estudiantes para fortalecer acciones contra la violencia sexual en escuelas</p>
+								</li>
+							        <li class="icon fa-headphones">
+									<h3>22 de abril
+									Boletín de prensa</h3>
+									<p>La Escuela Artistica Balles avanza en la atención a denuncias de acoso, hostigamiento sexual y otras violencias de género en escuelas y centros de trabajo</p>
+								</li>
+						                <li class="icon fa-headphones">
+									<h3>6 de marzo
+									Convocatoria PDF</h3>
+									<p>Proceso de auscultación para la designación de Director/a de la Academia de la Danza Mexicana para el periodo 2021-2025</p>
+								</li>
+						                <li class="icon fa-headphones">
+									<h3>21 de marzo
+									Boletín de prensa</h3>
+									<p>La Secretaría de Cultura y la Escuela Artistica Balles convocan al proceso de selección para dirigir la Academia de la Danza Mexicana</p>
+								</li>
+							        <li class="icon fa-headphones">
+									<h3>31 de enero
+									Boletín de prensa</h3>
+									<p>La Academia de la Danza Mexicana celebra 74 años de formar profesionistas que vinculan la tradición y lo contemporáneo</p>
+								
+								</li>
