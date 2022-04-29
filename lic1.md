@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licenciaturas
+title: Oferta Educativa
 ---
 
 ## Licenciatura en Danza Clásica
