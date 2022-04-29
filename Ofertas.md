@@ -3,24 +3,20 @@ layout: page
 title: Oferta Educativa
 ---
 
-<section id="two" class="wrapper alt style2">
-						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Clase de cumbia<br />
-								sed ullamcorper</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-							</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
-						</section>
-						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-							</div>
+## Licenciatura en Danza Clásica
+
+![image](https://user-images.githubusercontent.com/99769832/165885861-5a94c8a3-a8dd-427c-852b-33b0e6d1f0f2.png)
+
+Duración: 8 años
+
+Turno: Vespertino
+
+Edad de ingreso
+Para 1er. año: 9 a 12 años de edad al 31 de diciembre de 2021.
+Para colocación al 2º y 3er. años: 12 a 14 años de edad al 31 de diciembre de 2021.
+
+Para aspirantes admitidas/os, la ADM tiene la opción para cursar el 5.º y 6.º grados de primaria, la secundaria y el bachillerato general.
+
+La Licenciatura en Danza Clásica se caracteriza por integrar la herencia de su profundo legado artístico, con una visión actual y dinámica de la danza. El objetivo fundamental de esta licenciatura es formar al alumno/a en los saberes de la danza Clásica, a través del aprendizaje de la técnica “Vagánova” y otras técnicas de ballet.
+
+La formación se complementa con el estudio de otras disciplinas como Danzas de carácter, Dueto, Danzas históricas, Danza contemporánea y Kinesiología. Todos estos saberes promueven el desarrollo de las facultades físicas y expresivas que permiten al educando adquirir el conocimiento y las destrezas necesarias para responder a la demanda profesional requerida en compañías de Danza clásica y neoclásica.
