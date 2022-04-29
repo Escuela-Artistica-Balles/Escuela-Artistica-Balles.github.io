@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pasos de reincripcion
+title: Oferta educativa
 ---
 
 ## Licenciatura en Danza Contemporánea
