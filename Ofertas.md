@@ -21,34 +21,13 @@ La formación se complementa con el estudio de otras disciplinas como Danzas de 
 
 ![image](https://user-images.githubusercontent.com/99769832/165887275-cdc61fec-9058-4380-ab36-3a3602833657.png)
 
-<h2>Noticias</h2>
-								<p><br /></p>
-							</header>
-							<ul class="features">
-								</li>
-							        <li class="icon fa-headphones">
-									<h3>27 de abril
-									Boletín de prensa</h3>
-									<p>La Secretaría de Cultura y la Escuela Artistica Balles incluyen propuestas de estudiantes para fortalecer acciones contra la violencia sexual en escuelas</p>
-								</li>
-							        <li class="icon fa-headphones">
-									<h3>22 de abril
-									Boletín de prensa</h3>
-									<p>La Escuela Artistica Balles avanza en la atención a denuncias de acoso, hostigamiento sexual y otras violencias de género en escuelas y centros de trabajo</p>
-								</li>
-						                <li class="icon fa-headphones">
-									<h3>6 de marzo
-									Convocatoria PDF</h3>
-									<p>Proceso de auscultación para la designación de Director/a de la Academia de la Danza Mexicana para el periodo 2021-2025</p>
-								</li>
-						                <li class="icon fa-headphones">
-									<h3>21 de marzo
-									Boletín de prensa</h3>
-									<p>La Secretaría de Cultura y la Escuela Artistica Balles convocan al proceso de selección para dirigir la Academia de la Danza Mexicana</p>
-								</li>
-							        <li class="icon fa-headphones">
-									<h3>31 de enero
-									Boletín de prensa</h3>
-									<p>La Academia de la Danza Mexicana celebra 74 años de formar profesionistas que vinculan la tradición y lo contemporáneo</p>
-								
-								</li>
+## Licenciaturas
+
+|Licenciatura en Danza Clásica|Licenciatura en Danza Contemporánea|Licenciatura en Danza Popular Mexicana|
+|------------------------------|--------------------------|------------------------|
+|Esta licenciatura se caracteriza por integrar la herencia de su profundo legado artístico, con una visión actual y dinámica del ballet, a través de la técnica “Vagánova”, entre otras.![image](https://user-images.githubusercontent.com/99769832/165887275-cdc61fec-9058-4380-ab36-3a3602833657.png)|El plan de estudios ofrece, además de las asignaturas enfocadas a la comprensión del cuerpo y de los lenguajes de movimiento, la integración de saberes de otras disciplinas.![image](https://user-images.githubusercontent.com/99769832/165900983-9a53962c-2f8d-411f-91b5-1a3015a30826.png)|Tiene como propósito proporcionar las herramientas para la investigación, metodologías teórico-prácticas y conocimientos sobre la diversidad de lenguajes y visiones del mundo.![image](https://user-images.githubusercontent.com/99769832/165901249-5dae7b08-88f2-4c01-b602-8e77d1b72b37.png)
+
+
+
+
+
