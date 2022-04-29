@@ -20,3 +20,31 @@ La Licenciatura en Danza Clásica se caracteriza por integrar la herencia de su 
 La formación se complementa con el estudio de otras disciplinas como Danzas de carácter, Dueto, Danzas históricas, Danza contemporánea y Kinesiología. Todos estos saberes promueven el desarrollo de las facultades físicas y expresivas que permiten al educando adquirir el conocimiento y las destrezas necesarias para responder a la demanda profesional requerida en compañías de Danza clásica y neoclásica.
 
 ![image](https://user-images.githubusercontent.com/99769832/165887275-cdc61fec-9058-4380-ab36-3a3602833657.png)
+
+<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Licenciatura en Danza Clásica<br />
+								</h2>
+								<p>Esta licenciatura se caracteriza por integrar la herencia de su profundo legado artístico, con una visión actual y dinámica del ballet, a través de la técnica “Vagánova”, entre otras.</p>
+							<li><a href="https://escuela-artistica-balles.github.io/Ofertas.html" class="button special">Detalle</a></li>
+							
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>Licenciatura en Danza Contemporánea<br />
+								</h2>
+								<p>El plan de estudios ofrece, además de las asignaturas enfocadas a la comprensión del cuerpo y de los lenguajes de movimiento, la integración de saberes de otras disciplinas.</p>
+							<li><a href="lic2.html" class="button special">Detalle</a></li>
+							
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>Licenciatura en Danza Popular Mexicana<br />
+								</h2>
+								<p>Tiene como propósito proporcionar las herramientas para la investigación, metodologías teórico-prácticas y conocimientos sobre la diversidad de lenguajes y visiones del mundo.</p>
+							<li><a href="lic3.html" class="button special">Detalle</a></li>
+							</div>
+						</section>
